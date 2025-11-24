@@ -129,7 +129,6 @@
     <ClCompile Include="Coursework1.cpp" />
     <ClCompile Include="HotelBase.cpp" />
     <ClCompile Include="HotelManager.cpp" />
-    <ClCompile Include="IBookingService.cpp" />
     <ClCompile Include="PremiumHotel.cpp" />
     <ClCompile Include="Room.cpp" />
     <ClCompile Include="User.cpp" />

@@ -1,0 +1,7 @@
+id,type,name,city,description,stars,services,room_number,room_class,capacity,price
+1,Premium,Grand Hotel Kyiv,Kyiv,Розкішний готель в центрі Києва,5,SPA;Pool;Restaurant,101,Luxury,2,3500
+1,Premium,Grand Hotel Kyiv,Kyiv,Розкішний готель в центрі Києва,5,SPA;Pool;Restaurant,102,Luxury,2,3500
+1,Premium,Grand Hotel Kyiv,Kyiv,Розкішний готель в центрі Києва,5,SPA;Pool;Restaurant,201,Standard,2,2500
+2,Budget,City Hostel,Kyiv,Бюджетний готель біля вокзалу,2,WiFi;Parking,10,Economy,2,800
+2,Budget,City Hostel,Kyiv,Бюджетний готель біля вокзалу,2,WiFi;Parking,11,Economy,2,800
+3,Premium,Lviv Palace,Lviv,Історичний готель у центрі Львова,4,Restaurant;WiFi,301,Luxury,2,2800

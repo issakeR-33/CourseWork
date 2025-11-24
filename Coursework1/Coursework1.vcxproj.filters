@@ -36,9 +36,6 @@
     <ClCompile Include="BudgetHotel.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="IBookingService.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Booking.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
