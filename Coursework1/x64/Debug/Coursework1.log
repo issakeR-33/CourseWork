@@ -1,0 +1,856 @@
+﻿  Booking.cpp
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0423' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0448' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0446' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u041D' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u0439' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u0433' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u0414' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(43,39): warning C4566: character represented by universal-character-name '\u041D' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(43,39): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(43,39): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(43,39): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(43,39): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(43,39): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(43,39): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(43,39): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(43,39): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(43,39): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u041F' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u0444' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u0439' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0414' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0448' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0436' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0414' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0448' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0436' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+  (compiling source file 'Booking.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(151,18): warning C4566: character represented by universal-character-name '\u0411' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(151,18): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(151,18): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(151,18): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(151,18): warning C4566: character represented by universal-character-name '\u044E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(151,18): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(151,18): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(151,18): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(152,18): warning C4566: character represented by universal-character-name '\u0413' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(152,18): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(152,18): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(152,18): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(152,18): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(152,18): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(153,18): warning C4566: character represented by universal-character-name '\u041D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(153,18): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(153,18): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(153,18): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(153,18): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(154,18): warning C4566: character represented by universal-character-name '\u041A' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(154,18): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(154,18): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(154,18): warning C4566: character represented by universal-character-name '\u0454' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(154,18): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(154,18): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(155,18): warning C4566: character represented by universal-character-name '\u041F' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(155,18): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(155,18): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(155,18): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(155,18): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(155,18): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(155,18): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(156,18): warning C4566: character represented by universal-character-name '\u0417' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(156,18): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(156,18): warning C4566: character represented by universal-character-name '\u0457' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(156,18): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(156,18): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(157,18): warning C4566: character represented by universal-character-name '\u0412' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(157,18): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(157,18): warning C4566: character represented by universal-character-name '\u0457' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(157,18): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(157,18): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(158,18): warning C4566: character represented by universal-character-name '\u0421' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(158,18): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(158,18): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(158,18): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(158,18): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(159,18): warning C4566: character represented by universal-character-name '\u0412' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(159,18): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(159,18): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(159,18): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(159,18): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(159,18): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(159,18): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(160,26): warning C4566: character represented by universal-character-name '\u0433' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(160,26): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(160,26): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(161,18): warning C4566: character represented by universal-character-name '\u041A' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(161,18): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(161,18): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(161,18): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(161,18): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(161,18): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(161,18): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(161,18): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(161,18): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(161,18): warning C4566: character represented by universal-character-name '\u0447' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(161,18): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(161,18): warning C4566: character represented by universal-character-name '\u0439' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(239,11): warning C4566: character represented by universal-character-name '\u0411' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(239,11): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(239,11): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(239,11): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(239,11): warning C4566: character represented by universal-character-name '\u044E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(239,11): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(239,11): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(239,11): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(240,12): warning C4566: character represented by universal-character-name '\u0413' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(240,12): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(240,12): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(240,12): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(240,12): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(240,12): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(241,12): warning C4566: character represented by universal-character-name '\u041D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(241,12): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(241,12): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(241,12): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(241,12): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(242,12): warning C4566: character represented by universal-character-name '\u041A' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(242,12): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(242,12): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(242,12): warning C4566: character represented by universal-character-name '\u0454' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(242,12): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(242,12): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(244,12): warning C4566: character represented by universal-character-name '\u0421' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(244,12): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(244,12): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(244,12): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\Booking.cpp(244,12): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+  UserAccountManager.cpp
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0423' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0448' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u0446' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(40,39): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u041D' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u0439' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u0433' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(41,38): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u0414' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(42,39): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(43,39): warning C4566: character represented by universal-character-name '\u041D' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(43,39): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(43,39): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(43,39): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(43,39): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(43,39): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(43,39): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(43,39): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(43,39): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(43,39): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u041F' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u0444' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(44,36): warning C4566: character represented by universal-character-name '\u0439' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0414' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0448' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(45,36): warning C4566: character represented by universal-character-name '\u0436' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0414' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0448' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0436' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\Constants.hpp(46,37): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+  (compiling source file 'UserAccountManager.cpp')
+  
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(32,18): warning C4566: character represented by universal-character-name '\u041E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(32,18): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(32,18): warning C4566: character represented by universal-character-name '\u0454' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(32,18): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(32,18): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(32,18): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(32,18): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(32,18): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(32,18): warning C4566: character represented by universal-character-name '\u0449' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(32,18): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(32,18): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(77,26): warning C4566: character represented by universal-character-name '\u041D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(77,26): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(77,26): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(77,26): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(77,26): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(77,26): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(77,26): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(77,26): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(77,26): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(77,26): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(77,26): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(77,26): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(77,26): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(77,26): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(77,26): warning C4566: character represented by universal-character-name '\u0444' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(77,26): warning C4566: character represented by universal-character-name '\u0439' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(107,22): warning C4566: character represented by universal-character-name '\u041F' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(107,22): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(107,22): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(107,22): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(107,22): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(107,22): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(107,22): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(107,22): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(107,22): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(107,22): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(107,22): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(107,22): warning C4566: character represented by universal-character-name '\u0436' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(107,22): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(107,22): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(107,22): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(107,22): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(107,22): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(107,22): warning C4566: character represented by universal-character-name '\u0447' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(107,22): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(118,26): warning C4566: character represented by universal-character-name '\u041D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(118,26): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(118,26): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(118,26): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(118,26): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(118,26): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(118,26): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(118,26): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(118,26): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(118,26): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(118,26): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(118,26): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(118,26): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(118,26): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(118,26): warning C4566: character represented by universal-character-name '\u0444' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(118,26): warning C4566: character represented by universal-character-name '\u0439' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(118,26): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(118,26): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(118,26): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(133,22): warning C4566: character represented by universal-character-name '\u041F' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(133,22): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(133,22): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(133,22): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(133,22): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(133,22): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(133,22): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(133,22): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(133,22): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(133,22): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(133,22): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(133,22): warning C4566: character represented by universal-character-name '\u0436' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(133,22): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(133,22): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(133,22): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(133,22): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(133,22): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(133,22): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(133,22): warning C4566: character represented by universal-character-name '\u0447' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(133,22): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(154,22): warning C4566: character represented by universal-character-name '\u041A' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(154,22): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(154,22): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(154,22): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(154,22): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(154,22): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(154,22): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(154,22): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(154,22): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(154,22): warning C4566: character represented by universal-character-name '\u0447' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(154,22): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(154,22): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(154,22): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(154,22): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(154,22): warning C4566: character represented by universal-character-name '\u0433' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(154,22): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(154,22): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(154,22): warning C4566: character represented by universal-character-name '\u0436' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(154,22): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(154,22): warning C4566: character represented by universal-character-name '\u0454' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(161,22): warning C4566: character represented by universal-character-name '\u041D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(161,22): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(161,22): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(161,22): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(161,22): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(161,22): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(161,22): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(161,22): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(161,22): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(161,22): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(161,22): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(161,22): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(161,22): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(161,22): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(161,22): warning C4566: character represented by universal-character-name '\u0447' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(171,22): warning C4566: character represented by universal-character-name '\u041D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(171,22): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(171,22): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(171,22): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(171,22): warning C4566: character represented by universal-character-name '\u0436' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(171,22): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(171,22): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(171,22): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(171,22): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(171,22): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(171,22): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(171,22): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(171,22): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(171,22): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(171,22): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(187,18): warning C4566: character represented by universal-character-name '\u0421' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(187,18): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(187,18): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(187,18): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(187,18): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(187,18): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(187,18): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(187,18): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(187,18): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(187,18): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(187,18): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(187,18): warning C4566: character represented by universal-character-name '\u0447' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(187,18): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(191,22): warning C4566: character represented by universal-character-name '\u041B' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(191,22): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(191,22): warning C4566: character represented by universal-character-name '\u0433' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(191,22): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(191,22): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(192,16): warning C4566: character represented by universal-character-name '\u0420' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(192,16): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(192,16): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(192,16): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(192,16): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(192,16): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(192,16): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(192,16): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(192,16): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(192,16): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(192,16): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(192,16): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(196,18): warning C4566: character represented by universal-character-name '\u0412' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(196,18): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(196,18): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(196,18): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(196,18): warning C4566: character represented by universal-character-name '\u0433' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(196,18): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(196,18): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(196,18): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(196,18): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(196,18): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(196,18): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(196,18): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(196,18): warning C4566: character represented by universal-character-name '\u0447' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(196,18): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(212,22): warning C4566: character represented by universal-character-name '\u0421' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(212,22): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(212,22): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(212,22): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(212,22): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(212,22): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(212,22): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(212,22): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(212,22): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(212,22): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(212,22): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(212,22): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(212,22): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(212,22): warning C4566: character represented by universal-character-name '\u0447' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(212,22): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+C:\CHNU\Coursework1\Coursework1\UserAccountManager.cpp(212,22): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+  Generating Code...
+  Coursework1.vcxproj -> C:\CHNU\Coursework1\x64\Debug\Coursework1.exe
